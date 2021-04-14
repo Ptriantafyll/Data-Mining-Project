@@ -6,6 +6,7 @@ the csv files are the datasets used in the project
 Operations of main:
 
 on dataset winequality.csv: 
+
 ~find best parameters for svm classifier and print scores
 
 ~remove 33% of the column 'pH' and then using the best classifier found do:
